@@ -1,0 +1,1 @@
+This reproduces figure 5 from the paper https://arxiv.org/abs/1301.4633
